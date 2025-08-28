@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Aaron Agyapong  
 
-<!--
-**mraaron360/mraaron360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Identity & Access Management (IAM) Engineer**  
+I design and automate secure identity solutions that protect enterprises across hybrid cloud environments.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- 🔑 Identity Lifecycle Automation (onboarding/offboarding users)  
+- 🔐 SSO Integrations (OIDC, SAML)  
+- 📲 MFA Enforcement & Compliance Scripts  
+- 🗂️ RBAC / ABAC Role Automation  
+- 🌉 SCIM Provisioning Services  
+
+---
+
+## 📌 Featured Projects
+Here are my top IAM engineering projects:  
+
+- [IAM-SSO-MFA-LAB](https://github.com/mraaron360/IAM-SSO-MFA-LAB) – Flask app with Okta OIDC + SAML SSO & MFA automation  
+- [Identity-Lifecycle-Automation](https://github.com/mraaron360/Identity-lifecycle-automation-testing) – Automated onboarding/offboarding into Okta/Azure AD  
+- [RBAC-ABAC-Automation](https://github.com/mraaron360/RBAC-AND-ABAC) – Automates access control using job roles & attributes  
+- [SCIM-Microservice](https://github.com/mraaron360/SCIM-MICROSERVICE) – SCIM 2.0 server for provisioning users into apps  
+
+---
+
+## 🛠️ Tech Stack
+- **IAM Platforms:** Okta, Azure AD, Active Directory  
+- **Protocols:** OIDC, SAML, SCIM, OAuth2  
+- **Tools:** Python (Flask, Requests), PowerShell, REST APIs  
+- **Frameworks:** Zero Trust, NIST 800-53, FISMA  
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://linkedin.com/in/aaronagyapong)  
+- 📧 [Aaron.Agyapong@icloud.com](mailto:Aaron.Agyapong@icloud.com)  
