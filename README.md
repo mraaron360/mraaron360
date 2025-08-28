@@ -33,5 +33,5 @@ Here are my top IAM engineering projects:
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/aaronagyapong)  
+- 💼 [LinkedIn](https://linkedin.com/in/aaron-agyapong)  
 - 📧 [Aaron.Agyapong@icloud.com](mailto:Aaron.Agyapong@icloud.com)  
