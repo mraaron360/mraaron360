@@ -1,21 +1,21 @@
-# 👋 Hi, I’m Aaron Agyapong  
+#  Hi, I’m Aaron Agyapong  
 
-🔐 **Identity & Access Management (IAM) Engineer**  
+**Identity & Access Management (IAM) Engineer**  
 I design and automate secure identity solutions that protect enterprises across hybrid cloud environments.  
 
 ---
 
-## 🚀 What I Do
-- 🔑 Identity Lifecycle Automation (onboarding/offboarding users)  
-- 🔐 SSO Integrations (OIDC, SAML)  
-- 📲 MFA Enforcement & Compliance Scripts  
-- 🗂️ RBAC / ABAC Role Automation  
-- 🌉 SCIM Provisioning Services
-- 🔑 IAM -Automation-Suite 
+##  What I Do
+- Identity Lifecycle Automation (onboarding/offboarding users)  
+- SSO Integrations (OIDC, SAML)  
+- MFA Enforcement & Compliance Scripts  
+-  RBAC / ABAC Role Automation  
+- SCIM Provisioning Services
+- IAM -Automation-Suite 
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 Here are my top IAM engineering projects:  
 
 - [IAM-SSO-MFA-LAB](https://github.com/mraaron360/IAM-SSO-MFA-LAB) – Flask app with Okta OIDC + SAML SSO & MFA automation  
