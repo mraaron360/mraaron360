@@ -27,7 +27,7 @@ Here are my top IAM engineering projects:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **IAM Platforms:** Okta, Azure AD, Active Directory  
 - **Protocols:** OIDC, SAML, SCIM, OAuth2  
 - **Tools:** Python (Flask, Requests), PowerShell, REST APIs  
@@ -35,6 +35,6 @@ Here are my top IAM engineering projects:
 
 ---
 
-## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/aaron-agyapong-6b8b4889/) 
-- 📧 [Aaron.Agyapong@icloud.com](mailto:Aaron.Agyapong@icloud.com)  
+## Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/aaron-agyapong-6b8b4889/) 
+[Aaron.Agyapong@icloud.com](mailto:Aaron.Agyapong@icloud.com)  
