@@ -30,4 +30,4 @@ I design and automate secure identity solutions that protect enterprises across 
 [LinkedIn](www.linkedin.com/in/aaronagyapong01
 
 ) 
-[Aaron.Agyapong@icloud.com](mailto:Aaron.Agyapong@outlook.com)  
+[Aaron.Agyapong@outlook.com](mailto:Aaron.Agyapong@outlook.com)  
