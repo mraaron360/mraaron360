@@ -27,5 +27,7 @@ I design and automate secure identity solutions that protect enterprises across 
 ---
 
 ## Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/aaron-agyapong-6b8b4889/) 
-[Aaron.Agyapong@icloud.com](mailto:Aaron.Agyapong@icloud.com)  
+[LinkedIn](www.linkedin.com/in/aaronagyapong01
+
+) 
+[Aaron.Agyapong@icloud.com](mailto:Aaron.Agyapong@outlook.com)  
