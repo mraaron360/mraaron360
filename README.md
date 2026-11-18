@@ -1,6 +1,6 @@
 #  Hi, I’m Aaron Agyapong  
 
-**Identity & Access Management (IAM) Engineer**  
+**Identity & Access Management
 I design and automate secure identity solutions that protect enterprises across hybrid cloud environments.  
 
 ---
